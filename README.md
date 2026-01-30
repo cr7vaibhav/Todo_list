@@ -1,1 +1,1 @@
-Full stack Todo list app using nodejs sqlite and jwt auth
+a dockerised full stack todo app that used a NodeJS backend , a postgreSQL db ,Prisma as ORM and JWT auth
